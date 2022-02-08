@@ -148,11 +148,19 @@ Soon, I'll be merging all your pull requests into the master branch of this proj
 
 These are the list of first time contributors :raised_hands:
 
-<a href="https://github.com/sophiya02/first-contribution/graphs/contributors">
+ <table>
+	<tr>
+		 <td>
+  <a href="https://github.com/sophiya02/first-contribution/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sophiya02/first-contribution" />
-</a>
+  </a>
+		</td>
+	</tr>
+</table>
 
 <br>
+
+ 
 
 ## Wield the Web 2022:
 # First time Contributors 
