@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/sophiay02/first-contribution)](https://github.com/sophiya02/first-contribution/pulls)
+<!-- [![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/sophiay02/first-contribution)](https://github.com/sophiya02/first-contribution/pulls) -->
 
 # First Contribution
 
@@ -96,16 +96,16 @@ git checkout -b add-muhammad
 
 ### 4. Make necessary changes and commit those changes
 
-Now open `contributions.yml` file from `_data` directory in a text editor, add your name with emoji of your country flag, github_account and profile picture URL (avatar) to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `README.md` file in your `first-contribution` directory in a text editor, add your name with github_account in `Weild the Web First Time Contributors Section`. Now, save the file.
 
-<img align="right" width="450" src="image/status.png" alt="git status" />
+<img align="right" width="450" src="images/status.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add _data/contributions.yml
+git add .
 ```
 
 Now commit those changes using the `git commit` command:
@@ -122,7 +122,7 @@ replace `<your-name>` with your name.
 Push your changes using the command `git push`:
 
 ```
-git push origin <add-your-branch-name>
+git push -u origin <add-your-branch-name>
 ```
 
 replace `<add-your-branch-name>` with the name of the branch you created earlier.
@@ -137,7 +137,7 @@ Now if you go to your repository on GitHub, you'll see a `Compare & pull request
 
 Now submit the pull request.
 
-<img style="float: right;" src="image/createPull.png" alt="submit pull request" />
+<img style="float: right;" src="images/createPull.png" alt="submit pull request" />
 
 Soon, I'll be merging all your pull requests into the master branch of this project. You will get a notification email once the changes have been merged.
 
