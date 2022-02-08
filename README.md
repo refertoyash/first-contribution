@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<!-- [![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/sophiay02/first-contribution)](https://github.com/sophiya02/first-contribution/pulls) -->
+[![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/sophiay02/first-contribution)](https://github.com/sophiya02/first-contribution/pulls)
 
 # First Contribution
 
@@ -12,7 +12,7 @@ Then look no further, we have created this repository to help you to get started
 ## Step-by-Step Guide for beginners for getting started with Open-Source
 
 ### This project is part of Weild the Web 2022, by CES, MMMUT Gorakhpur
-[![Weild the Web](assets/copy-to-clipboard.png)](https://wtwces.netlify.app/)
+[![Weild the Web](images/weildTheWeb.png)](https://wtwces.netlify.app/)
 
 ### 1. The first thing you need is Git installed on your system, if it is not installed then download it as per your OS and install it.
 
@@ -133,11 +133,11 @@ replace `<add-your-branch-name>` with the name of the branch you created earlier
 
 Now if you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="images/compare.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="image/createPull.png" alt="submit pull request" />
 
 Soon, I'll be merging all your pull requests into the master branch of this project. You will get a notification email once the changes have been merged.
 
