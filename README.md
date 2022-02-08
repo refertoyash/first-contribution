@@ -183,6 +183,8 @@ These are the list of first time contributors :raised_hands:
 -   ### **W** <br>
 -   ### **X** <br>
 -   ### **Y** <br>
+    -   [Yash Tiwari](https://github.com/refertoyash)
+
 -   ### **Z** <br>
 
 ## Give a ⭐ to this repo as a token of appreciation
