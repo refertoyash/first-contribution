@@ -1,8 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/devncode/first-contributions)](https://github.com/devncode/first-contributions/pulls)
-
-<h2 style="color: red">Just to be clear, pull request in this repo will not count in HacktoberFest</h2>
+[![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/sophiay02/GettingStartedWithGit-Github-WeildTheWeb2022)](https://github.com/sophiya02/GettingStartedWithGit-Github-WeildTheWeb2022/pulls)
 
 # First Contribution
 
@@ -15,11 +12,11 @@ Then look no further, we have created this repository to help you to get started
 ## Step-by-Step Guide for beginners for getting started with Open-Source
 
 ### This project is part of Weild the Web 2022, by CES, MMMUT Gorakhpur
-![Weild the Web](https://wtwces.netlify.app/)
+[![Weild the Web](assets/copy-to-clipboard.png)](https://wtwces.netlify.app/)
 
 ### 1. The first thing you need is Git installed on your system, if it is not installed then download it as per your OS and install it.
 
-<h3>Git Setup :- </h3>
+- ## Git Setup
 <ul>
 <li><a href="https://git-scm.com/downloads">Download Git</a> as per your OS.</li>
 <li>Git installation<a href="https://www.youtube.com/watch?v=2j7fD92g-gE"> Video</a> for Windows User</li>
@@ -69,6 +66,7 @@ git clone https://github.com/this-is-you/first-contributions.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+<hr>
 
 ### 3. Create a new branch(It is always advisable to create new branch for any changes).
 
@@ -93,6 +91,7 @@ git checkout -b add-muhammad
 ```
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+<hr>
 
 ### 4. Make necessary changes and commit those changes
 
@@ -115,6 +114,7 @@ git commit -m "Add <your-name> to Contributors list"
 ```
 
 replace `<your-name>` with your name.
+<hr>
 
 ### 5. Push changes to GitHub
 
@@ -125,6 +125,8 @@ git push origin <add-your-branch-name>
 ```
 
 replace `<add-your-branch-name>` with the name of the branch you created earlier.
+
+<hr>
 
 ### 6. Submit your changes for review
 
@@ -138,13 +140,17 @@ Now submit the pull request.
 
 Soon, I'll be merging all your pull requests into the master branch of this project. You will get a notification email once the changes have been merged.
 
+<hr>
+
 ## Contributors
 
 Thank you to all the contributors who help in making this project better :raised_hands:
 
-<a href="https://github.com/devncode/first-contributions/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=devncode/first-contributions" />
+<a href="https://github.com/sophiya02/GettingStartedWithGit-Github-WeildTheWeb2022/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=sophiya02/GettingStartedWithGit-Github-WeildTheWeb2022" />
 </a>
+
+<br>
 
 ## Weild the Web 2022:
 # First time Contributors 
