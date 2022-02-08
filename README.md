@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<!-- [![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/sophiay02/GettingStartedWithGit-Github-WeildTheWeb2022)](https://github.com/sophiya02/GettingStartedWithGit-Github-WeildTheWeb2022/pulls) -->
+<!-- [![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/sophiay02/first-contribution)](https://github.com/sophiya02/first-contribution/pulls) -->
 
 # First Contribution
 
@@ -63,10 +63,10 @@ git clone "URL you just copied"
 For example:
 
 ```
-git clone https://github.com/this-is-you/GettingStartedWithGit-Github-WeildTheWeb2022.git
+git clone https://github.com/this-is-you/first-contribution.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the GettingStartedWithGit-Github-WeildTheWeb2022 repository in GitHub to your computer.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contribution repository in GitHub to your computer.
 <hr>
 
 ### 3. Create a new branch(It is always advisable to create new branch for any changes).
@@ -76,7 +76,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd GettingStartedWithGit-Github-WeildTheWeb2022
+cd first-contribution
 ```
 
 Now create a branch using the `git checkout` command:
@@ -145,10 +145,10 @@ Soon, I'll be merging all your pull requests into the master branch of this proj
 
 ## Contributors
 
-Thank you to all the contributors who help in making this project better :raised_hands:
+These are the list of first time contributors :raised_hands:
 
-<a href="https://github.com/sophiya02/GettingStartedWithGit-Github-WeildTheWeb2022/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=sophiya02/GettingStartedWithGit-Github-WeildTheWeb2022" />
+<a href="https://github.com/sophiya02/first-contribution/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=sophiya02/first-contribution" />
 </a>
 
 <br>
@@ -183,3 +183,4 @@ Thank you to all the contributors who help in making this project better :raised
 -   ### **Y** <br>
 -   ### **Z** <br>
 
+## Give a ⭐ to this repo as a token of appreciation
