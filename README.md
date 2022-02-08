@@ -1,5 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/sophiay02/GettingStartedWithGit-Github-WeildTheWeb2022)](https://github.com/sophiya02/GettingStartedWithGit-Github-WeildTheWeb2022/pulls)
+<!-- [![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/sophiay02/GettingStartedWithGit-Github-WeildTheWeb2022)](https://github.com/sophiya02/GettingStartedWithGit-Github-WeildTheWeb2022/pulls) -->
 
 # First Contribution
 
@@ -42,12 +42,13 @@ Then look no further, we have created this repository to help you to get started
 
 - ## Fork this repository
 
+<img align="right" width="300" src="images/fork.jpeg" alt="fork this repository" />
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 - ## Clone the repository
 
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="images/copy.jpeg" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the _copy to clipboard_ icon.
 
@@ -57,15 +58,15 @@ Open a terminal and run the following git command:
 git clone "URL you just copied"
 ```
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="images/copyLink.png" alt="copy URL to clipboard" />
 
 For example:
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/this-is-you/GettingStartedWithGit-Github-WeildTheWeb2022.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the GettingStartedWithGit-Github-WeildTheWeb2022 repository in GitHub to your computer.
 <hr>
 
 ### 3. Create a new branch(It is always advisable to create new branch for any changes).
@@ -75,7 +76,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd GettingStartedWithGit-Github-WeildTheWeb2022
 ```
 
 Now create a branch using the `git checkout` command:
@@ -97,7 +98,7 @@ git checkout -b add-muhammad
 
 Now open `contributions.yml` file from `_data` directory in a text editor, add your name with emoji of your country flag, github_account and profile picture URL (avatar) to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="right" width="450" src="image/status.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
