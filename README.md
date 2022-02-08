@@ -11,8 +11,9 @@ Then look no further, we have created this repository to help you to get started
 
 ## Step-by-Step Guide for beginners for getting started with Open-Source
 
-### This project is part of Weild the Web 2022, by CES, MMMUT Gorakhpur
+ ### This project is part of Weild the Web 2022, by CES, MMMUT Gorakhpur
 [![Weild the Web](/images/wtw.png)](https://wtwces.netlify.app/)
+=======
 
 ### 1. The first thing you need is Git installed on your system, if it is not installed then download it as per your OS and install it.
 
@@ -96,7 +97,7 @@ git checkout -b add-muhammad
 
 ### 4. Make necessary changes and commit those changes
 
-Now open `README.md` file in your `first-contribution` directory in a text editor, add your name with github_account in `Weild the Web First Time Contributors Section`. Now, save the file.
+Now open `README.md` file in your `first-contribution` directory in a text editor, add your name with github_account in `Wield the Web First Time Contributors Section`. Now, save the file.
 
 <img align="right" width="450" src="images/status.png" alt="git status" />
 
@@ -148,12 +149,12 @@ Soon, I'll be merging all your pull requests into the master branch of this proj
 These are the list of first time contributors :raised_hands:
 
 <a href="https://github.com/sophiya02/first-contribution/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=sophiya02/first-contribution" />
+  <img src="https://contrib.rocks/image?repo=sophiya02/first-contribution" />
 </a>
 
 <br>
 
-## Weild the Web 2022:
+## Wield the Web 2022:
 # First time Contributors 
 -   ### **A** <br>
 -   ### **B** <br>
