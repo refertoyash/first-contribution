@@ -12,7 +12,7 @@ Then look no further, we have created this repository to help you to get started
 ## Step-by-Step Guide for beginners for getting started with Open-Source
 
 ### This project is part of Wield the Web 2022, by CES, MMMUT Gorakhpur
-[![Wield the Web](images/wieldTheWeb.png)](https://wtwces.netlify.app/)
+[![Wield the Web](images/wieldTheWeb.jpeg)](https://wtwces.netlify.app/)
 
 ### 1. The first thing you need is Git installed on your system, if it is not installed then download it as per your OS and install it.
 
